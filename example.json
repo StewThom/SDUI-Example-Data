@@ -1,0 +1,281 @@
+{
+  "content": {
+    "list": {
+      "content": [
+        {
+          "content": {
+            "_name": "The Cranley",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/30000/26900/26802/c85ca347_l.jpg",
+            "_star_rating": "0"
+          },
+          "id": "812BCF21-3C4F-4FA8-9DA2-40F4DF2F27DF",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Best Western Buckingham Palace Rd",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/2000000/1060000/1050200/1050189/581524ae_l.jpg",
+            "_star_rating": "0"
+          },
+          "id": "21088AC3-2222-49D8-AA62-CFDC2B2CF380",
+          "cellType": "cell"
+        },
+        {
+          "id": "75AF9B19-1E4E-445F-972D-FA9CC08A14B7",
+          "content": {
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/16000000/15060000/15058800/15058768/e54b4319_l.jpg",
+            "_name": "Valet Apartments Golden Square",
+            "_star_rating": "0"
+          },
+          "cellType": "cell"
+        },
+        {
+          "id": "285F17A4-7B28-4A50-B976-90925D317819",
+          "content": {
+            "_name": "The Pack And Carriage London",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/31000000/30680000/30675000/30674905/70d9510a_l.jpg",
+            "_star_rating": "0"
+          },
+          "cellType": "cell"
+        },
+        {
+          "id": "6191A3E2-C496-40FB-9730-03C1262E0A40",
+          "content": {
+            "_star_rating": "0",
+            "_name": "St George's Inn Victoria",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/2000000/1390000/1381800/1381796/4aac2c6e_l.jpg"
+          },
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Royal Docks Guesthouse by LUXHABITAT",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/53000000/53000000/52995400/52995399/e01b4260_l.jpg",
+            "_star_rating": "0"
+          },
+          "id": "76E59830-3893-435A-808B-C73C2AB44C3E",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Grange Buckingham",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/2000000/1440000/1437000/1436966/c8e61190_l.jpg",
+            "_star_rating": "0"
+          },
+          "id": "D3C503CC-0125-4438-91C1-873D94A27FAE",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Airways Hotel Victoria",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/530000/522300/522217/abb9c60c_l.jpg"
+          },
+          "id": "E24C5CB9-FBB2-4D6A-908E-89A77B1A41F4",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "The Tudor Inn Hotel",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/15000000/14930000/14920200/14920177/824dbb74_l.jpg"
+          },
+          "id": "132D84B9-DDDF-43E7-81D1-809A756C2D3D",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Grange Beauchamp",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1864600/1864590/9794dba2_l.jpg"
+          },
+          "id": "E621330A-8960-428A-97CE-99A680B06585",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Brit Hotels London Court",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/2000000/1390000/1381400/1381394/9f2c2b32_l.jpg"
+          },
+          "id": "23E0E48A-1EA5-4C94-92CA-1E8D553B213B",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "London Elizabeth Hotel",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/890000/888600/888528/b255c23c_l.jpg"
+          },
+          "id": "3136632A-4228-466C-91CD-9E6E13B21348",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Grange Clarendon",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/2000000/1440000/1437000/1436967/940ea714_l.jpg"
+          },
+          "id": "5142EA99-2642-426B-A160-638A22DA1639",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Kings Cross Inn Hotel",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/3000000/2540000/2538000/2537960/153e3788_l.jpg"
+          },
+          "id": "FC17B7A7-3F6E-4858-BF55-BCF58089BAF1",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Hilton London Metropole",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/30000/26200/26134/f1cea863_l.jpg"
+          },
+          "id": "D8B11B64-B004-4F69-BBA4-B42B284D976E",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Park Plaza Westminster Bridge London",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/4000000/3120000/3113100/3113039/34bd5809_l.jpg"
+          },
+          "id": "8395BDD6-316E-4B46-ADE4-74FD3312F2D3",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "DoubleTree by Hilton London Angel Kings Cross",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/90000/84100/84047/5c251f16_l.jpg"
+          },
+          "id": "9CD379A2-6914-4E35-B450-B9E13C7913A2",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Classic Hyde Park Hotel",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/5000000/4890000/4882100/4882020/f4427cf5_l.jpg"
+          },
+          "id": "58B46EBF-FB5D-497A-A3F9-FAF0A0F1B72C",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Millenium Aparthotels",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/25000000/24320000/24315600/24315565/d228b414_l.jpg"
+          },
+          "id": "E2A664E3-2C91-4A0C-B354-5B45A93CB4BC",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Leman Locke ",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/16000000/15960000/15952700/15952624/72353773_l.jpg"
+          },
+          "id": "24B58274-5BFD-4210-8DD7-C233B5E056EF",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Templeton Place by Supercity Aparthotels ",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/12000000/11980000/11974800/11974737/00564064_l.jpg"
+          },
+          "id": "66F7BB8B-D3AD-4A9E-8A5C-92CA16AC9FD0",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Marlin Waterloo",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/19000000/18570000/18561400/18561390/165c7b6e_l.jpg"
+          },
+          "id": "EB116E44-24FA-4C4A-AEFE-1B16B5A286C4",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "New Linden",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/20000/16100/16008/c2d1568a_l.jpg"
+          },
+          "id": "D0CDF191-8C82-44C4-920A-DAAE262C7DDF",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Rose Park Hotel",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/910000/900700/900646/7787f306_l.jpg"
+          },
+          "id": "49B06CF5-8C4D-437E-A1CA-D2306A21F4E8",
+          "cellType": "cell"
+        },
+        {
+          "content": {
+            "_name": "Westpoint Hotel",
+            "_star_rating": "0",
+            "_thumbnail": "https://exp.cdn-hotels.com/hotels/1000000/930000/922100/922082/739e7061_l.jpg"
+          },
+          "id": "27BDC07E-4B23-4532-A3E4-D9F314662474",
+          "cellType": "cell"
+        }
+      ],
+      "cellData": [
+        {
+          "componentData": {
+            "stack": {
+              "content": [
+                {
+                  "image": {
+                    "url": "_thumbnail",
+                    "properties": {
+                      "frame": [
+                        100,
+                        100
+                      ]
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "title": "_name"
+                  }
+                },
+                {
+                  "stack": {
+                    "content": [
+                      {
+                        "text": {
+                          "title": "_star_rating"
+                        }
+                      },
+                      {
+                        "image": {
+                          "properties": {},
+                          "systemImage": "star.fill"
+                        }
+                      }
+                    ],
+                    "orientation": "horizontal"
+                  }
+                }
+              ],
+              "orientation": "vertical"
+            }
+          },
+          "cellType": "cell"
+        }
+      ]
+    }
+  },
+  "navBarStyle": "inline",
+  "navBarTitle": "London, England, United Kingdom"
+}
