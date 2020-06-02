@@ -236,12 +236,6 @@
                 {
                   "image": {
                     "url": "_thumbnail",
-                    "properties": {
-                      "frame": [
-                        100,
-                        100
-                      ]
-                    }
                   }
                 },
                 {
